@@ -750,7 +750,7 @@ case ('bunch_params')
 !   {ele_id} is an element name or index.
 !   {which} is one of: "model", "base" or "design"
 !   {ix_bunch} is the bunch index.
-!   {coordinate} is one of: x, px, y, py, z, pz, "s", "t", "charge", "p0c", "state", "ix_ele"
+!   {coordinate} is one of: x, px, y, py, z, pz, s, t, charge, p0c, state, ix_ele
 !
 ! For example, if {coordinate} = "px", the phase space px coordinate of each particle
 ! of the bunch is displayed. The "state" of a particle is an integer. A value of 1 means
